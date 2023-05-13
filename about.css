@@ -44,43 +44,41 @@ nav ul li a:hover{
 	color: #F26B8A;
 }
 
-
-#home{
-   background-color: black;
-   position: relative;
+#about{
+	positon: relative;
 }
 
-.txt{
-	margin-left: 15%;
-	margin-top: 12%;
+.about-items{
+	  width: 1000px;
 }
 
-.txt h1{
-	font-size: 45px;
+.about-item{
+    width: 90%;
+    text-align: center;
+    border-radius: 15px;
+    padding: 50px;
+    margin: 245px;
+    margin-top: 10px; 
+    display: flex;
+    box-shadow: 0px 0px 8px 0 #F26B8A;
+    transition: 3s ease box-shadow;
+}
+
+.about h1{
+	font-size: 250%;
+	font-weight: 700;
+	color: #F26B8A;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  
+}
+
+.about p{
+	font-size: 130%;
+	font-weight: 450;
 	color: white;
-    margin-bottom: 5px;    
-}
-
-.txt h2{
-	font-size: 35px;
-	color: #ffd1dc;
-    margin-bottom: 10px;    
-}
-
-span{
-	color: #F26B8A;	
-}
-
-.txt p{
-	font-size: 15px;
-	color: gray;
-}
-
-.img{
-	width: 10%;
-	height: 215%;
-	position: absolute;
-	bottom: 20px;
-	right: 537px;
-    justify-content: left;
+    text-align: center;
+   
 }
