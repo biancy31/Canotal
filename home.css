@@ -58,7 +58,8 @@ nav ul li a:hover{
 .txt h1{
 	font-size: 45px;
 	color: white;
-    margin-bottom: 5px;    
+    margin-bottom: 5px;
+    transition-property: width;    
 }
 
 .txt h2{
