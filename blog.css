@@ -43,3 +43,69 @@ nav ul li a{
 nav ul li a:hover{
 	color: #F26B8A;
 }
+
+#blog{
+    position: relative;
+}
+
+.blog-items{
+    width: 600px;
+    margin-right: 0%;
+}
+
+.blog-item{
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 385px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    flex-direction: row;
+    box-shadow: 0px 0px 5px 0 white;
+}
+
+.blog h1{
+    font-size: 250%;
+    font-weight: 700;
+    color: #F26B8A;
+    line-height: 100%;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;     
+}
+
+.blog h2{
+    font-size: 180%;    
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.blog h3{
+    font-size: 100%;
+    font-weight: 80;
+    margin-top: 10px;
+    color: #ffd1dc;
+    text-align: center;
+}
+
+.blog h4{
+    font-size: 120%;
+    font-weight: 100;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+}
+
+.logo2 img{
+    justify-content: center;
+    width: 350px;
+    margin-left: 0%; 
+}
+
+.logo3 img{
+    justify-content: center;
+    width: 400px;
+}
