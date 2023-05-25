@@ -60,8 +60,7 @@ nav ul li a:hover{
     margin: 245px;
     margin-top: 10px; 
     display: flex;
-    box-shadow: 0px 0px 8px 0 #F26B8A;
-    transition: 3s ease box-shadow;
+    box-shadow: 0px 0px 5px 0 #F26B8A;
 }
 
 .about h1{
